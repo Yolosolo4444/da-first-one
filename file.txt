@@ -1,1 +1,1 @@
-This is a very important text file that contains a very important information because the info here is a first version of a file. if this is altered, it's too late to get it back!
+This is a less important text file that contains a nonimportant information because the info here is a second version of a file. if this is altered, it's too late to get it back!
